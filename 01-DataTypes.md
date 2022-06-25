@@ -1,7 +1,7 @@
 # Data Types (tipos de dados em PHP)
 
 No PHP as Variaveis podem armazenar dados de diferentes tipos e tipos de dados podem fazer diferentes coisas.
-
+Nesse documento discutiremos alguns pontos sobre os tipos de dados são suportados pelo PHP.
 O PHP suporta os seguintes tipos de dados:
 
 - String
