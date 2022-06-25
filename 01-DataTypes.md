@@ -1,6 +1,8 @@
-Variaveis podem armazenar dados de diferentes tipos e tipos de dados podem fazer diferentes coisas.
+# Data Types (tipos de dados em PHP)
 
-PHP suporta os seguintes tipos de dados:
+No PHP as Variaveis podem armazenar dados de diferentes tipos e tipos de dados podem fazer diferentes coisas.
+
+O PHP suporta os seguintes tipos de dados:
 
 - String
 - Integer
@@ -169,4 +171,4 @@ O tipo especial `resource` não é exatamente um tipo de dado. Ele armazena refe
 Um exemplo de uso desse tipo de dados são as chamadas nos bancos de dados. Falaremos disso adiante.
 
 
->> texto retirado e livremente traduzido de https://www.w3schools.com/php/php_datatypes.asp
+> texto retirado e livremente traduzido de https://www.w3schools.com/php/php_datatypes.asp
