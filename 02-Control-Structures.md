@@ -221,3 +221,6 @@ print "$carro->cor<br>";
 Este novo loop foi introduzido na versão PHP 4. É usado exclusivamente para looping através de elementos de uma matriz, permitindo que você imprima facilmente ou execute operações em elementos dentro de uma matriz.
 
   > texto retirado e traduzido livremente de <a href="https://www.developer.com/languages/php/php-control-structures/#:~:text=There%20are%20two%20types%20of,indented%20for%20the%20same%20reason.">https://www.developer.com/languages/php/php-control-structures/#:~:text=There%20are%20two%20types%20of,indented%20for%20the%20same%20reason.</a>
+
+Anterior: [Tipos de dados](https://github.com/Unix-User/RoadMap-de-estudos-PHP/edit/main/01-DataTypes.md)
+Proximo: [Funções](https://github.com/Unix-User/RoadMap-de-estudos-PHP/blob/main/03-Functions.md)
