@@ -172,3 +172,5 @@ Um exemplo de uso desse tipo de dados são as chamadas nos bancos de dados. Fala
 
 
 > texto retirado e livremente traduzido de https://www.w3schools.com/php/php_datatypes.asp
+
+Proximo: [Estruturas de controle](https://github.com/Unix-User/RoadMap-de-estudos-PHP/blob/main/02-Control-Structures.md)
