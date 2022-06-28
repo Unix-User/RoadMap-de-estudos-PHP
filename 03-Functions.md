@@ -178,3 +178,6 @@ echo $num;
 ```
 
 > texto retirado e livremente traduzido de <a href="https://www.w3schools.com/php/php_functions.asp">https://www.w3schools.com/php/php_functions.asp</a>
+
+Anterior: [Funções](https://github.com/Unix-User/RoadMap-de-estudos-PHP/edit/main/02-Control-Structures.md)
+Proximo: [Classes](https://github.com/Unix-User/RoadMap-de-estudos-PHP/edit/main/04-Classes.md)
