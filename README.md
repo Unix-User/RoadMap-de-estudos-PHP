@@ -6,6 +6,7 @@ https://dev.to/he110/php-backend-roadmap-2j1a?signin=true;
 
 Vou postando conforme avanço nos estudos
 
+## PHP
  - Dia 1 - [Tipos de dados](https://github.com/Unix-User/RoadMap-de-estudos-PHP/blob/main/01-DataTypes.md)
  - Dia 2 - [Estruturas de controle](https://github.com/Unix-User/RoadMap-de-estudos-PHP/blob/main/02-Control-Structures.md)
  - Dia 3 - [Funções](https://github.com/Unix-User/RoadMap-de-estudos-PHP/blob/main/03-Functions.md)
