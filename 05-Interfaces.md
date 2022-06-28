@@ -88,5 +88,5 @@ Cães, gatos, ratos são todas classes que implementam a interface animal, o que
 
 > texto retirado e traduzido livremente de <a href="https://www.w3schools.com/php/php_oop_interfaces.asp">https://www.w3schools.com/php/php_oop_interfaces.asp</a>
 
-Anterior: [Funções](https://github.com/Unix-User/RoadMap-de-estudos-PHP/blob/main/04-Classes.md)
+Anterior: [Classes](https://github.com/Unix-User/RoadMap-de-estudos-PHP/blob/main/04-Classes.md)
 Proximo: [Extendendo e Implementando](#)
