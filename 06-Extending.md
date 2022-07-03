@@ -87,3 +87,6 @@ class MeuDateTime extends DateTime
 ?>
 ```
 > texto copiado integralmente de <a href="https://www.php.net/manual/pt_BR/language.oop5.inheritance.php">https://www.php.net/manual/pt_BR/language.oop5.inheritance.php</a>
+
+Anterior [Parte 2 - Interfaces](https://github.com/Unix-User/RoadMap-de-estudos-PHP/blob/main/05-Interfaces.md)
+Próximo [Implementação](https://github.com/Unix-User/RoadMap-de-estudos-PHP/blob/main/07-Implementation.md)
